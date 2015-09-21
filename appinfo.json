@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "ashneo76@gmail.com",
+    "longName": "cta-tracker",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "cta-tracker",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "4baa033f-61ac-4297-ae5a-4ff670ba35e1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
